@@ -3,6 +3,7 @@
 alt="imagem animada de desenvolvedor" style="width: 350px;">
 
  # Olá, sou  Bruno Pereira👋
+
  
  [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Pereira-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-pereira-6b67b4217/)](https://www.linkedin.com/in/bruno-pereira-6b67b4217/)
 
@@ -16,7 +17,7 @@ Atualmente, estou focado em expandir meu conhecimento e experiência na área de
 
 
 - 📫 Entrar em contato: w.brunopereiraa@gmail.com
-- ♟️ Curiosidade: Nas horas vagas gosto de tocar Guitarra.
+- 🎸 Curiosidade: Nas horas vagas gosto de tocar Guitarra.
 
 
  **Tecnologias:**
