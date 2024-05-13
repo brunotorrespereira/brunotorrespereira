@@ -1,9 +1,9 @@
-# Olá, sou  Bruno Pereira👋
 
 <img align="right" src="./assets/renderizacao-3d-de-crianca-jogando-jogo-digital.jpg" 
 alt="imagem animada de desenvolvedor" style="width: 350px;">
 
-
+ # Olá, sou  Bruno Pereira👋
+ 
  [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Pereira-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-pereira-6b67b4217/)](https://www.linkedin.com/in/bruno-pereira-6b67b4217/)
 
 
@@ -13,10 +13,6 @@ Sou um desenvolvedor apaixonado pelo desenvolvimento de sistemas e aplicativos, 
 Tenho um forte desejo de aprender e explorar soluções inovadoras, sempre buscando maneiras de melhorar e aprimorar minhas habilidades técnicas. Estou constantemente atualizado sobre as últimas tecnologias e tendências do mercado, buscando proporcionar aos usuários uma experiência cada vez mais agradável e envolvente.
 
 Atualmente, estou focado em expandir meu conhecimento e experiência na área de desenvolvimento mobile, e estou empolgado para enfrentar novos desafios e oportunidades que possam surgir.
-
-
-
-
 
 
 - 📫 Entrar em contato: w.brunopereiraa@gmail.com
@@ -32,4 +28,8 @@ Atualmente, estou focado em expandir meu conhecimento e experiência na área de
   <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="38" height="38"/></code>&nbsp;
  </p>
- 
+  
+
+
+
+   
