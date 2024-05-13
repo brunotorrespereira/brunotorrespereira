@@ -1,15 +1,15 @@
-# Olá, sou  Bruno 👋
+# Olá, sou  Bruno Pereira👋
 
 <img align="right" src="./assets/renderizacao-3d-de-crianca-jogando-jogo-digital.jpg" 
 alt="imagem animada de desenvolvedor" style="width: 350px;">
 
-
 <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/bruno-pereira-6b67b4217/" style="text-decoration: none; display: flex; align-items: center; background-color: #0077B5; width: 120px ; margin-bottom: 10px;">
-        <img src="./assets/image-2.png" alt="alt text" style="width: 25px; height: 25px; margin-right:10px;">
-        <span style="font-size: 12px; color: white;">Bruno Pereira</span>
+    <a href="https://www.linkedin.com/in/bruno-pereira-6b67b4217/" style="text-decoration: none; display: flex; align-items: center; background-color: #0077B5; width: 120px; margin-bottom: 10px;">
+        <img src="./assets/image-2.png" alt="alt text" style="width: 25px; height: 25px; margin-right: 10px;">
+        <span style="font-size: 12px; color: white; vertical-align: middle;">Bruno Pereira</span>
     </a>
 </div>
+
 
 
 
