@@ -2,12 +2,11 @@
 <img align="right" src="./assets/renderizacao-3d-de-crianca-jogando-jogo-digital.jpg" 
 alt="imagem animada de desenvolvedor" style="width: 350px;">
 
- # Olá, sou  Bruno Pereira👋
+ ### Olá, sou  Bruno Pereira👋
 
- 
  [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Pereira-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-pereira-6b67b4217/)](https://www.linkedin.com/in/bruno-pereira-6b67b4217/)
 
-
+ 
 
 Sou um desenvolvedor apaixonado pelo desenvolvimento de sistemas e aplicativos, com uma profunda dedicação à criação de experiências online excepcionais. Ao longo dos últimos anos, tenho dedicado meu tempo e energia para aprimorar minhas habilidades no desenvolvimento mobile, buscando sempre novos desafios e oportunidades de crescimento.
 
